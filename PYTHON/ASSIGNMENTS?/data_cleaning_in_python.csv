@@ -1,0 +1,231 @@
+customer_id, Product Name ,Price,Quantity,Customer_Type,Order_Date, customer_email 
+1027,  laptop,169.12,3,PREMIUM,,bob@email.com
+1046,Smartphone,1189.32,4,PREMIUM,,charlie@email.com
+1097,MOUSE,MISSING,2,Regular,2024-01-06,eve@email.com
+1042,  laptop,MISSING,5,Premium,2024-01-21,alice@email.com
+1045,headphones,MISSING,3,regular,2024-01-04,charlie@email.com
+1050,Tablet,143.49,1,PREMIUM,2024-01-25,bob@email.com
+1053,Smartphone,MISSING,4,PREMIUM,,DIANA@EMAIL.COM
+1048,smartphone  ,MISSING,4,regular,,bob@email.com
+1048,Tablet,MISSING,2,Premium,,BOB@EMAIL.COM
+1099,headphones,MISSING,4,regular,,DIANA@EMAIL.COM
+1031,Smartphone,MISSING,3,regular,2024-01-06,BOB@EMAIL.COM
+1062,keyboard,MISSING,3,regular,,diana@email.com
+1082,TABLET,121.58,4,PREMIUM,2024-01-13,CHARLIE@EMAIL.COM
+1057,Smartphone,324.48,5,PREMIUM,,eve@email.com
+1085,Tablet,MISSING,1,Regular,2024-01-08,EVE@EMAIL.COM
+1099,MOUSE,285.43,5,PREMIUM,2024-01-03,DIANA@EMAIL.COM
+1021,TABLET,MISSING,5,Regular,,charlie@email.com
+1039,TABLET,MISSING,4,Regular,,bob@email.com
+1090,MOUSE,MISSING,3,Regular,2024-01-09,BOB@EMAIL.COM
+1034,  laptop,MISSING,1,Premium,2024-01-20,BOB@EMAIL.COM
+1029,Smartphone,MISSING,4,Regular,,diana@email.com
+1026,smartphone  ,MISSING,2,Regular,2024-01-10,EVE@EMAIL.COM
+1082,headphones,MISSING,2,Regular,,diana@email.com
+1007,keyboard,MISSING,4,regular,2024-01-27,bob@email.com
+1028,keyboard,88.66,5,Premium,2024-01-10,bob@email.com
+1027,Smartphone,MISSING,4,Premium,2024-01-19,charlie@email.com
+1075,Smartphone,1178.55,5,regular,,bob@email.com
+1015,  laptop,MISSING,3,Regular,,alice@email.com
+1089,keyboard,MISSING,1,Regular,2024-01-20,diana@email.com
+1025,  laptop,MISSING,5,regular,,ALICE@EMAIL.COM
+1039,TABLET,562.80,2,regular,,EVE@EMAIL.COM
+1090,keyboard,574.17,2,Regular,,charlie@email.com
+1082,  laptop,1010.01,3,Premium,2024-01-27,EVE@EMAIL.COM
+1014,  laptop,493.68,4,Regular,,eve@email.com
+1018,smartphone  ,523.29,4,PREMIUM,2024-01-08,charlie@email.com
+1048,headphones,MISSING,5,PREMIUM,2024-01-27,charlie@email.com
+1024,MOUSE,MISSING,2,Premium,2024-01-06,DIANA@EMAIL.COM
+1086,headphones,MISSING,2,Premium,2024-01-17,EVE@EMAIL.COM
+1043,TABLET,202.04,1,Regular,,CHARLIE@EMAIL.COM
+1053,  laptop,591.81,4,Regular,2024-01-07,diana@email.com
+1046,Tablet,MISSING,1,regular,,diana@email.com
+1002,smartphone  ,792.95,1,regular,,eve@email.com
+1019,Smartphone,1122.05,5,regular,,ALICE@EMAIL.COM
+1003,smartphone  ,227.88,4,regular,,alice@email.com
+1091,TABLET,202.06,1,PREMIUM,,BOB@EMAIL.COM
+1001,Smartphone,MISSING,2,regular,,BOB@EMAIL.COM
+1088,MOUSE,MISSING,5,regular,,alice@email.com
+1095,headphones,MISSING,3,Premium,2024-01-04,diana@email.com
+1058,Smartphone,MISSING,2,Premium,2024-01-22,CHARLIE@EMAIL.COM
+1007,smartphone  ,871.84,5,PREMIUM,2024-01-29,alice@email.com
+1036,  laptop,1041.48,5,regular,,CHARLIE@EMAIL.COM
+1002,Smartphone,MISSING,1,PREMIUM,2024-01-27,eve@email.com
+1063,TABLET,1124.09,5,Regular,,eve@email.com
+1089,headphones,MISSING,4,Regular,2024-01-04,diana@email.com
+1017,headphones,154.81,3,Premium,,BOB@EMAIL.COM
+1046,MOUSE,370.14,1,regular,2024-01-28,charlie@email.com
+1090,  laptop,239.72,4,PREMIUM,,eve@email.com
+1085,keyboard,845.75,3,PREMIUM,2024-01-29,eve@email.com
+1071,smartphone  ,1150.66,3,PREMIUM,2024-01-16,alice@email.com
+1086,headphones,MISSING,2,regular,,ALICE@EMAIL.COM
+1062,headphones,1196.58,3,Regular,2024-01-20,bob@email.com
+1051,Smartphone,195.30,3,Regular,,charlie@email.com
+1029,  laptop,MISSING,2,regular,2024-01-08,EVE@EMAIL.COM
+1027,Tablet,MISSING,5,Premium,,BOB@EMAIL.COM
+1090,smartphone  ,297.69,5,Premium,,charlie@email.com
+1011,  laptop,MISSING,3,PREMIUM,2024-01-30,charlie@email.com
+1082,headphones,249.59,3,PREMIUM,2024-01-06,EVE@EMAIL.COM
+1051,keyboard,MISSING,3,PREMIUM,,alice@email.com
+1010,keyboard,826.78,4,Regular,,diana@email.com
+1058,Tablet,MISSING,4,regular,,charlie@email.com
+1099,smartphone  ,MISSING,1,Premium,2024-01-25,bob@email.com
+1077,TABLET,MISSING,4,PREMIUM,,charlie@email.com
+1073,MOUSE,404.15,3,PREMIUM,,diana@email.com
+1057,headphones,MISSING,1,Regular,,alice@email.com
+1096,MOUSE,MISSING,5,PREMIUM,2024-01-01,diana@email.com
+1011,headphones,MISSING,3,PREMIUM,2024-01-18,CHARLIE@EMAIL.COM
+1069,TABLET,1078.96,2,Regular,2024-01-10,eve@email.com
+1042,headphones,477.76,5,Regular,,diana@email.com
+1091,TABLET,MISSING,4,regular,,alice@email.com
+1064,MOUSE,110.65,1,regular,,alice@email.com
+1043,headphones,MISSING,5,Premium,2024-01-29,eve@email.com
+1046,keyboard,802.31,2,regular,2024-01-08,diana@email.com
+1098,MOUSE,285.01,4,Regular,2024-01-12,ALICE@EMAIL.COM
+1094,smartphone  ,MISSING,2,Premium,,eve@email.com
+1074,TABLET,810.88,2,PREMIUM,2024-01-09,eve@email.com
+1070,keyboard,823.23,3,PREMIUM,2024-01-02,EVE@EMAIL.COM
+1071,MOUSE,1085.02,3,PREMIUM,,ALICE@EMAIL.COM
+1095,Smartphone,MISSING,5,Regular,,diana@email.com
+1075,TABLET,MISSING,5,Regular,,charlie@email.com
+1100,headphones,MISSING,3,PREMIUM,2024-01-04,CHARLIE@EMAIL.COM
+1078,TABLET,42.23,3,regular,2024-01-26,eve@email.com
+1059,Tablet,190.90,4,Regular,2024-01-28,eve@email.com
+1084,headphones,MISSING,5,Regular,2024-01-09,BOB@EMAIL.COM
+1079,smartphone  ,MISSING,4,regular,,diana@email.com
+1081,TABLET,500.18,4,Regular,,alice@email.com
+1065,keyboard,MISSING,4,Premium,2024-01-08,eve@email.com
+1001,Tablet,478.88,3,PREMIUM,2024-01-23,CHARLIE@EMAIL.COM
+1066,  laptop,644.27,5,PREMIUM,,ALICE@EMAIL.COM
+1093,Tablet,MISSING,5,Premium,,bob@email.com
+1037,  laptop,370.61,4,Premium,,bob@email.com
+1041,  laptop,566.51,1,Regular,2024-01-28,alice@email.com
+1011,keyboard,MISSING,3,Regular,,diana@email.com
+1057,TABLET,266.27,5,regular,,bob@email.com
+1087,smartphone  ,895.34,5,Premium,,eve@email.com
+1071,Tablet,MISSING,4,Premium,2024-01-28,eve@email.com
+1043,smartphone  ,534.85,1,Regular,,bob@email.com
+1067,MOUSE,1139.33,5,PREMIUM,,eve@email.com
+1078,keyboard,MISSING,5,Premium,,bob@email.com
+1043,MOUSE,199.48,1,PREMIUM,2024-01-29,BOB@EMAIL.COM
+1082,Smartphone,MISSING,2,Premium,2024-01-28,EVE@EMAIL.COM
+1001,Tablet,MISSING,4,Premium,,diana@email.com
+1099,  laptop,MISSING,5,regular,,bob@email.com
+1006,keyboard,MISSING,4,Premium,,eve@email.com
+1068,smartphone  ,1007.10,4,Regular,,alice@email.com
+1075,Smartphone,MISSING,3,Regular,,bob@email.com
+1091,MOUSE,MISSING,2,PREMIUM,,diana@email.com
+1037,TABLET,847.18,4,Premium,,charlie@email.com
+1061,headphones,MISSING,4,Premium,2024-01-10,bob@email.com
+1078,smartphone  ,1135.86,5,regular,2024-01-23,BOB@EMAIL.COM
+1029,  laptop,MISSING,4,Regular,,bob@email.com
+1067,  laptop,827.71,4,Regular,,alice@email.com
+1033,TABLET,211.23,3,regular,,DIANA@EMAIL.COM
+1009,keyboard,998.62,5,Regular,,bob@email.com
+1086,TABLET,MISSING,1,Regular,,BOB@EMAIL.COM
+1046,TABLET,996.98,1,Regular,,ALICE@EMAIL.COM
+1045,TABLET,MISSING,5,regular,2024-01-22,CHARLIE@EMAIL.COM
+1031,  laptop,MISSING,3,PREMIUM,,CHARLIE@EMAIL.COM
+1072,Smartphone,532.50,2,PREMIUM,,CHARLIE@EMAIL.COM
+1001,headphones,644.13,2,Regular,2024-01-16,diana@email.com
+1075,Smartphone,1108.30,2,Premium,2024-01-01,charlie@email.com
+1067,  laptop,483.02,1,PREMIUM,,eve@email.com
+1057,Tablet,149.32,3,Premium,,DIANA@EMAIL.COM
+1081,headphones,475.10,5,PREMIUM,,eve@email.com
+1066,Smartphone,355.83,4,Premium,2024-01-19,alice@email.com
+1047,TABLET,MISSING,1,PREMIUM,2024-01-05,DIANA@EMAIL.COM
+1004,headphones,805.99,5,regular,,BOB@EMAIL.COM
+1042,TABLET,MISSING,4,Regular,2024-01-05,BOB@EMAIL.COM
+1056,TABLET,MISSING,2,PREMIUM,2024-01-13,BOB@EMAIL.COM
+1005,headphones,MISSING,2,Premium,,diana@email.com
+1052,TABLET,MISSING,3,PREMIUM,,bob@email.com
+1003,TABLET,882.35,5,Premium,2024-01-22,charlie@email.com
+1006,smartphone  ,MISSING,4,Premium,2024-01-01,alice@email.com
+1002,  laptop,246.25,5,Premium,,charlie@email.com
+1069,Tablet,MISSING,2,Regular,,diana@email.com
+1052,headphones,51.44,1,Premium,,ALICE@EMAIL.COM
+1021,smartphone  ,MISSING,5,regular,,alice@email.com
+1032,TABLET,1114.94,1,Regular,2024-01-14,diana@email.com
+1039,headphones,765.33,1,PREMIUM,2024-01-10,bob@email.com
+1019,Tablet,740.78,4,regular,2024-01-01,DIANA@EMAIL.COM
+1045,  laptop,MISSING,2,Premium,,BOB@EMAIL.COM
+1041,MOUSE,MISSING,2,PREMIUM,,alice@email.com
+1066,Tablet,MISSING,2,Regular,2024-01-04,CHARLIE@EMAIL.COM
+1017,smartphone  ,1073.67,3,regular,,ALICE@EMAIL.COM
+1032,MOUSE,293.01,5,Premium,2024-01-03,eve@email.com
+1100,Smartphone,315.70,1,PREMIUM,,CHARLIE@EMAIL.COM
+1063,keyboard,MISSING,2,Premium,,DIANA@EMAIL.COM
+1081,Smartphone,538.24,2,regular,2024-01-13,alice@email.com
+1054,  laptop,469.48,3,PREMIUM,2024-01-24,eve@email.com
+1095,Smartphone,MISSING,4,Regular,,CHARLIE@EMAIL.COM
+1030,smartphone  ,MISSING,4,Regular,,alice@email.com
+1034,  laptop,MISSING,2,PREMIUM,2024-01-19,eve@email.com
+1014,MOUSE,1189.45,2,Regular,,eve@email.com
+1074,TABLET,MISSING,3,regular,,bob@email.com
+1068,headphones,44.87,4,PREMIUM,,bob@email.com
+1008,Tablet,MISSING,1,regular,2024-01-17,charlie@email.com
+1048,headphones,MISSING,4,PREMIUM,,charlie@email.com
+1041,  laptop,207.34,4,Regular,2024-01-16,eve@email.com
+1001,  laptop,331.54,2,Premium,2024-01-28,CHARLIE@EMAIL.COM
+1087,  laptop,1198.08,4,PREMIUM,,bob@email.com
+1049,smartphone  ,MISSING,3,Premium,,bob@email.com
+1096,Smartphone,984.61,2,Premium,,EVE@EMAIL.COM
+1076,smartphone  ,167.26,2,PREMIUM,2024-01-27,CHARLIE@EMAIL.COM
+1013,  laptop,1061.87,3,regular,,eve@email.com
+1011,keyboard,MISSING,1,PREMIUM,,charlie@email.com
+1097,smartphone  ,MISSING,1,PREMIUM,2024-01-14,ALICE@EMAIL.COM
+1048,headphones,475.89,2,Regular,,CHARLIE@EMAIL.COM
+1026,headphones,MISSING,4,PREMIUM,,EVE@EMAIL.COM
+1077,MOUSE,MISSING,1,Premium,,CHARLIE@EMAIL.COM
+1001,headphones,MISSING,2,Premium,2024-01-07,charlie@email.com
+1045,MOUSE,122.77,5,Premium,2024-01-01,DIANA@EMAIL.COM
+1039,MOUSE,348.69,1,PREMIUM,,diana@email.com
+1050,headphones,MISSING,3,regular,2024-01-29,bob@email.com
+1025,Smartphone,MISSING,3,PREMIUM,2024-01-01,EVE@EMAIL.COM
+1049,smartphone  ,1047.48,4,Premium,,BOB@EMAIL.COM
+1096,Tablet,897.11,2,Premium,2024-01-16,diana@email.com
+1093,Smartphone,140.50,3,Premium,2024-01-26,diana@email.com
+1071,TABLET,MISSING,4,Premium,,CHARLIE@EMAIL.COM
+1050,  laptop,1018.51,3,Regular,2024-01-07,eve@email.com
+1028,smartphone  ,MISSING,1,Premium,,eve@email.com
+1004,Tablet,152.09,5,Regular,,charlie@email.com
+1025,smartphone  ,503.54,4,Premium,2024-01-19,eve@email.com
+1015,  laptop,169.91,2,Premium,2024-01-29,alice@email.com
+1036,MOUSE,MISSING,2,regular,,bob@email.com
+1014,  laptop,114.74,4,PREMIUM,,DIANA@EMAIL.COM
+1056,keyboard,MISSING,4,Regular,2024-01-27,CHARLIE@EMAIL.COM
+1088,headphones,MISSING,5,PREMIUM,,eve@email.com
+1100,TABLET,MISSING,2,Premium,2024-01-25,bob@email.com
+1084,Smartphone,22.63,3,regular,,diana@email.com
+1035,Smartphone,MISSING,1,PREMIUM,,bob@email.com
+1016,TABLET,MISSING,2,PREMIUM,2024-01-20,alice@email.com
+1097,Tablet,MISSING,2,PREMIUM,,diana@email.com
+1023,smartphone  ,MISSING,3,Premium,,EVE@EMAIL.COM
+1066,  laptop,MISSING,5,Premium,,diana@email.com
+1043,keyboard,22.71,4,Regular,,DIANA@EMAIL.COM
+1067,smartphone  ,MISSING,4,Regular,,alice@email.com
+1079,smartphone  ,MISSING,2,Regular,2024-01-19,CHARLIE@EMAIL.COM
+1010,Tablet,MISSING,3,Premium,,charlie@email.com
+1086,MOUSE,774.13,4,Regular,2024-01-05,eve@email.com
+1095,MOUSE,1158.04,4,Premium,2024-01-18,diana@email.com
+1037,Smartphone,MISSING,5,Regular,2024-01-15,alice@email.com
+1075,Tablet,1175.27,3,PREMIUM,2024-01-01,diana@email.com
+1018,  laptop,716.00,2,PREMIUM,,bob@email.com
+1083,headphones,MISSING,4,regular,,bob@email.com
+1075,keyboard,MISSING,4,Regular,2024-01-22,ALICE@EMAIL.COM
+1070,Tablet,MISSING,1,Premium,2024-01-03,diana@email.com
+1091,headphones,1145.56,4,PREMIUM,2024-01-29,CHARLIE@EMAIL.COM
+1017,smartphone  ,MISSING,5,regular,,ALICE@EMAIL.COM
+1027,Smartphone,143.70,1,Regular,,ALICE@EMAIL.COM
+1043,Smartphone,MISSING,1,PREMIUM,,bob@email.com
+1059,MOUSE,MISSING,1,regular,2024-01-02,charlie@email.com
+1027,  laptop,169.12,3,PREMIUM,,bob@email.com
+1014,  laptop,493.68,4,Regular,,eve@email.com
+1088,headphones,MISSING,5,PREMIUM,,eve@email.com
+1029,  laptop,MISSING,4,Regular,,bob@email.com
+1096,Smartphone,984.61,2,Premium,,EVE@EMAIL.COM
+1075,Smartphone,1178.55,5,regular,,bob@email.com
+1095,Smartphone,MISSING,5,Regular,,diana@email.com
+1091,headphones,1145.56,4,PREMIUM,2024-01-29,CHARLIE@EMAIL.COM
+1050,Tablet,143.49,1,PREMIUM,2024-01-25,bob@email.com
+1045,  laptop,MISSING,2,Premium,,BOB@EMAIL.COM
